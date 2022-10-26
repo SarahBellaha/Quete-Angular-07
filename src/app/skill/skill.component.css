@@ -1,0 +1,15 @@
+.skill-list {
+    display: flex;
+    justify-content: space-around;
+    width: 70vw;
+    align-items: center;
+}
+
+li {
+    flex: 0.3;
+    margin-left: 15px;
+}
+
+img {
+    width: 100px;
+}
